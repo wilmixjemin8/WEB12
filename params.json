@@ -1,0 +1,6 @@
+{
+  "name": "Web12",
+  "tagline": "WEB12  is a  Framework  invented   by  wilmix jemin  j  at  year  2016  at  JAS.",
+  "body": "# WEB12\r\n=======\r\n\r\nWEB12\r\n======\r\n\r\nWEB12  is a  Framework  invented   by  wilmix jemin  j  at  year  2016  at  JAS.\r\n\r\n\r\nWEB12   consists   of  modules    [WEB2  to  WEB12]\r\n\r\n\r\nNote:  WEB12  is   used  only  with C# and VB.net.\r\n\r\n\r\nSYNTAX:\r\n=======\r\n\r\n\r\n\r\n<WEB2>\r\n\r\n<WEB2@>\r\n\r\n<%\r\n\r\n<!   WEB2-web12  code>\r\n%>\r\n\r\n</WEB2>\r\n\r\n\r\nProgram:\r\n========\r\n\r\n<WEB2>\r\n\r\n<WEB2@>\r\n\r\n<%\r\n\r\npublic  class  Jquerytest\r\n\r\n{\r\npublic void  JDOLLAR-Main()\r\n\r\n{\r\n\r\nHTML.displayhtml(\"jquery1.html\");\r\n\r\n\r\n}\r\n\r\n\r\n\r\n\r\n}\r\n\r\n%>\r\n\r\n</WEB2>\r\n\r\n\r\n\r\n\r\nAdvantages:\r\n===========\r\n\r\n\r\nBehaves  like Jdollar, used  only  with C# and  VB.net.\r\n\r\nIt  is   used  for  mobile  webapplication and  remote  webapplication.\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
