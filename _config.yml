@@ -1,0 +1,8 @@
+title: Web12
+description: WEB12  is a  Framework  invented   by  wilmix jemin  j  at  year  2016  at  JAS.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
