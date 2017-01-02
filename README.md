@@ -10,7 +10,7 @@ WEB12  is a  Framework  invented   by  wilmix jemin  j  at  year  2016  at  JAS.
 WEB12   consists   of  modules    [WEB2  to  WEB12]
 
 
-Note:  WEB12  is   used  only  with C# and VB.net.
+Note:  WEB12  is   used  only  with C/C++ P.L.
 
 
 SYNTAX:
@@ -67,7 +67,7 @@ Advantages:
 ===========
 
 
-Behaves  like Jdollar, used  only  with C# and  VB.net.
+Behaves  like Jdollar, used  only  with C/C++ P.L
 
 It  is   used  for  mobile  webapplication and  remote  webapplication.
 
